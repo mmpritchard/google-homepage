@@ -1,0 +1,60 @@
+img{
+  display: block;
+  margin: auto;
+
+}
+input{
+  display:block;
+  margin:auto;
+  width:500px;
+  height: 40px;
+}
+.header{
+  background-color: white;
+  display: block;
+  height: 100px;
+
+}
+.top{
+  color: grey;
+  background-color: white;
+  font-weight: normal;
+
+}
+.bottom{
+  font-weight: normal;
+}
+.footer{
+  background-color: rgb(242, 242, 242);
+  display: block;
+  height: 60px;
+  margin-top: 200px;
+  border-top:2px #e6e6e6 solid;
+}
+button{
+  border: none;
+  font-weight:bold;
+  color: grey;
+  padding: 10px 10px 10px 10px;
+
+
+
+}
+.buttons{
+  float:right;
+}
+.search_buttons{
+ text-align: center;
+ margin-top: 50px;
+ border-radius: 2px;
+
+}
+.right_buttons{
+  float:right;
+
+}
+a{
+  text-decoration:none;
+  color: grey;
+
+}
